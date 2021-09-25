@@ -1,4 +1,4 @@
-# LiU-Ibtroduction to Python
+# LiU-Introduction to Python
 
 This course covers the following content:
 
